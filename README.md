@@ -5,7 +5,7 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 
 ## What I learned
 
-* How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
+* How to integrate third party libraries in app using Cocoapods and Swift Package Manager.
 * How to store data in the cloud using Firebase Firestore.
 * How to query and sort the Firebase database.
 * How to use Firebase for user authentication, registration and login.
